@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 60px;
+    
+}
+h2{
+    font-size: 50px;
+    font-weight: 700;
+}
+.titles{
+    font-weight: bold;
+    color: rgb(15, 15, 41);
+}
+p{
+    color: dimgray;
+}
+.word-highlight{
+    color: orange;
+}
+.word-highlight2{
+    color: rgb(245, 78, 78);
+}
+.opening{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.opening img{
+    width: 100%;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 400px;
+    margin-bottom: 500px;
+}
+.anchor-design{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+.projects{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+.box-shad{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 8px;
+    height: 80%;
+    background-color: white;
+}
+.about{
+    color: navy;
+}
+.bottom{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+#project{
+    text-align: center;
+    padding-top: 150px;
+    margin: 200px 200px 200px 200px;
+}
+.details{
+    color: gray;
+}
+.bottom-sec{
+    background-color: rgb(225, 243, 243);
+}
+.final img{
+ width: 100%;
+}
+.image { 
+    position: relative; 
+    width: 100%; /* for IE 6 */
+ }
+ 
+ .img-text { 
+     color: white;
+    position: absolute; 
+    top: 30%;
+    left: 10%; 
+    width: 100%; 
+ }
+ .img-anchor { 
+    position: absolute; 
+    top: 50%; 
+    left: 80%; 
+ }
