@@ -92,11 +92,14 @@ section{
 }
 .image { 
     background-image: url("shapes/Group_33094_1.png");
-    width: 40%;
+    width: 100%;
+    
+ }
+.words{
     float: left;
     margin-left: 5%;
     padding-left: 2%;
- }
+}
  
  .img-text { 
      color: white;
