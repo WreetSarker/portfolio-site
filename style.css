@@ -91,15 +91,16 @@ section{
 
 }
 .image { 
-    position: relative; 
-    width: 100%; /* for IE 6 */
+    background-image: url("shapes/Group_33094_1.png");
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
  }
  
  .img-text { 
      color: white;
-    position: absolute; 
-    top: 30%;
-    left: 10%; 
+    
     width: 100%; 
  }
  .img-anchor { 
